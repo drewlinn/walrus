@@ -10,3 +10,8 @@
 .clickable:hover  {
   text-decoration: underline;
 }
+
+.alternate-theme {
+  background-color: #E86C52;
+  text-decoration-color: #76BFD1;
+}
